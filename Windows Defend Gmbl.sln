@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Defender Ext", "Windows Defender Ext\Windows Defend Gmbl.csproj", "{54FF681B-83B6-4880-B25A-8834CA7BC001}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Defend Gmbl", "Windows Defend Gmbl\Windows Defend Gmbl.csproj", "{54FF681B-83B6-4880-B25A-8834CA7BC001}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Gamble Blocker Setup", "Gamble Blocker Setup\Gamble Blocker Setup.vdproj", "{30CBAFBC-9757-4F32-9C6F-5C9C2717E07C}"
 EndProject
